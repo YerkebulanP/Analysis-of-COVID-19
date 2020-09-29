@@ -1,5 +1,5 @@
 # Analysis-of-COVID-19
-In this project I'm going to analyse the COVID-19 pandemic ******
+In this project I'm going to analyse the COVID-19 pandemic
 
 The dataset is taken from: https://www.kaggle.com/atilamadai/covid19
 
